@@ -14,16 +14,20 @@ Po uruchomieniu klucz publiczny Ewy jest publikowany i Adam, znając go, może z
 
 #### Wysyłanie wiadomości z TestClient
 Napiszmy wiadomość dla Ewy.
+
 ![alt text](https://github.com/s20488/BSI_secure_communication/blob/main/screens/TestClient_sending_message.png?raw=true)
 
 #### Odbieranie wiadomości z Testserver
 Do serwera wysyłana jest zaszyfrowana wiadomość od Adama oraz zaproszenie do odszyfrowania tej wiadomości. Potwierdzamy i odbieramy zaszyfrowaną wiadomość.
+
 ![alt text](https://github.com/s20488/BSI_secure_communication/blob/main/screens/Testserver_receiving_message.png?raw=true)
 
 #### Wysyłanie wiadomości z Testserver
 Napiszmy wiadomość dla Adama.
+
 ![alt text](https://github.com/s20488/BSI_secure_communication/blob/main/screens/Testserver_sending_message.png?raw=true)
 
 #### Odbieranie wiadomości z TestClient
 Do serwera wysyłana jest zaszyfrowana wiadomość od Ewy oraz zaproszenie do odszyfrowania tej wiadomości. Potwierdzamy i odbieramy zaszyfrowaną wiadomość.
+
 ![alt text](https://github.com/s20488/BSI_secure_communication/blob/main/screens/TestClient_receiving_message.png?raw=true)
