@@ -4,10 +4,12 @@ Używając algorytmu RSA, system ten zapewnia zaszyfrowany sposób czatowania dl
 
 #### Uruchomienie Testserver
 Po uruchomieniu klucz publiczny Adama jest publikowany i Ewa, znając go, może zaszyfrować wiadomość, którą tylko Adam może odczytać odszyfrowując go swoim kluczem prywatnym.
+
 ![alt text](https://github.com/s20488/BSI_secure_communication/blob/main/screens/Testserver_start.png?raw=true)
 
 #### Uruchomienie TestClient
 Po uruchomieniu klucz publiczny Ewy jest publikowany i Adam, znając go, może zaszyfrować wiadomość, którą tylko Ewa może odczytać odszyfrowując ją swoim kluczem prywatnym.
+
 ![alt text](https://github.com/s20488/BSI_secure_communication/blob/main/screens/TestClient_start.png?raw=true)
 
 #### Wysyłanie wiadomości z TestClient
